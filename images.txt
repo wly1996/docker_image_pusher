@@ -1,2 +1,3 @@
 wushuo894/ani-rss
 xhongc/music_tag_web
+jc21/nginx-proxy-manager
